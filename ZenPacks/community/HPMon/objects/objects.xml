@@ -2315,7 +2315,7 @@ True
 True
 </property>
 <property type="string" id="maxval" mode="w" >
-2
+0.04
 </property>
 <property type="string" id="eventClass" mode="w" >
 /HW/Store
@@ -3367,7 +3367,7 @@ True
 True
 </property>
 <property type="string" id="maxval" mode="w" >
-2
+0.04
 </property>
 <property type="string" id="eventClass" mode="w" >
 /HW/Store
@@ -5069,7 +5069,7 @@ True
 True
 </property>
 <property type="string" id="maxval" mode="w" >
-2
+0.003
 </property>
 <property type="string" id="eventClass" mode="w" >
 /HW/Store
